@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 100vh;
+    background-image: url(./background-dimension-3d-graphic-message-board-for-text-and-message-design-line-shadow-for-modern-web-design-free-vector.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+section{
+    position: relative;
+    max-width: 400px;
+    margin-top: 30px;
+    background-color: transparent;
+    border: 2px solid;
+    
+    border-radius: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem 3rem;
+}
+h1{
+    font-size: 2rem;
+    color: #fff;
+    text-align: center;
+}
